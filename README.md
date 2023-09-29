@@ -1,2 +1,2 @@
 # JavaCarShop
-Mainly Java skills demo
+Full Java Project Demo
